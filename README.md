@@ -16,3 +16,26 @@ application.
 The main objective of this project is to provide an efficient, digital platform for car 
 rental companies and customers, minimizing manual effort and errors. It showcases the 
 practical use of enterprise-level Java technologies in developing real-world applications. 
+
+
+![image](https://github.com/user-attachments/assets/7b0bc89a-3d74-4d65-ac5f-274bc1ff115d)
+
+![image](https://github.com/user-attachments/assets/422d6209-9e0e-48c7-806c-b8d75cda03fd)
+
+![image](https://github.com/user-attachments/assets/e63d8297-555d-4918-aa63-f8dec53b0078)
+
+![image](https://github.com/user-attachments/assets/fe259d02-ab9b-40b7-a5f3-d5e87300f50b)
+
+![image](https://github.com/user-attachments/assets/d4d8a7f1-3aa6-42fd-8a9f-9be511a71aa0)
+
+![image](https://github.com/user-attachments/assets/af0b0e9f-acca-4593-9b1c-0d3d350dd128)
+
+![image](https://github.com/user-attachments/assets/8f8e0f3b-a669-4f9f-a39f-d363c0ce2728)
+
+![image](https://github.com/user-attachments/assets/93faddbc-9326-4811-8cd7-488480f4f790)
+
+
+
+
+
+
